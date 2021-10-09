@@ -1,0 +1,6 @@
+print("Hello, this code will generate your band name")
+print("Enter the name of the town you live")
+town = input()
+print("Enter the pet name")
+pet = input()
+print(town + " " + pet)
